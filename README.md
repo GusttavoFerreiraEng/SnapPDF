@@ -103,8 +103,6 @@ Os documentos selecionados não precisam ser enviados a servidores para que o PD
 
 **Gustavo Ferreira**
 
-Desenvolvedor de software, com interesse em aplicações web, interfaces responsivas e soluções digitais acessíveis.
-
 ## Status
 
 **Versão inicial publicada e funcional.**
@@ -114,4 +112,3 @@ Desenvolvedor de software, com interesse em aplicações web, interfaces respons
 ---
 
 Desenvolvido com dedicação para tornar a conversão de documentos mais simples e acessível.
->>>>>>> fda02415fb52540dc9a36d72da6d6c57cbbe2553
